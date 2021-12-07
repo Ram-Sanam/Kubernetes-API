@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-pod
+  labels:
+    app: web
+spec:Q
+  containers:
+    - name: web-ctr
+      image: ramsanam/ramimages:kubernetescon
+      ports:
+        - containerPort: 8081
