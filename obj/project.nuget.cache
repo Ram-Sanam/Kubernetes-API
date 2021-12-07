@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpMcDYMOGyCfpwIyjqv79TKWJDa7LFkzokFQxusAy2xv2CKVHintOvYV6HvH1kkkjX5+zmVsnjAMFc2qa7J+tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SanamR\\Desktop\\PreIMPACT-Sept-2021\\Microservices with Kubernetes\\KubernetesAPI\\KubernetesAPI\\KubernetesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanamR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
