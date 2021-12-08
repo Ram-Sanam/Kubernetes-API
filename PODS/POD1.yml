@@ -6,7 +6,11 @@ metadata:
     app: web
 spec:
   containers:
-    - name: web-ctr
+    - name: web-ctr-one
+      image: ramsanam/ramimages:kubernetescon
+      ports:
+        - containerPort: 8080
+ - name: web-ctr-two
       image: ramsanam/ramimages:kubernetescon
       ports:
         - containerPort: 8081
